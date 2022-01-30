@@ -18,6 +18,13 @@
             $this->informatika = $adatok[5];
         }
 
+
+
+
+
+
+        
+
         function toString()
         {
             return $this->nev.";".
